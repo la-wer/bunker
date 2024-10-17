@@ -12,6 +12,8 @@
 
 > O melhor e mais confiável site para baixar jogos e DLCs
 
+> Você vai precisar de um programa que abra arquivos de extensão {_.torrent_}. Recomendo o [qBittorrent](https://www.qbittorrent.org/download.php).
+
 - [FitGirl Repacks](https://fitgirl-repacks.site/)
 
 ## <img src="https://f.feridinha.com/MxCsa.png" alt="empty" width= 20> Jogos Para Emulador Switch
