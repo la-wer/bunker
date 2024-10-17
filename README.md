@@ -1,8 +1,48 @@
+<img src="https://f.feridinha.com/X1IVb.gif">
+
 # Bem-vinde ao Bunker
   
 > Aqui você vai encontrar muitas informações sobre o mundo da pirataria e diversas recomendações.
 
+<img src="https://f.feridinha.com/X1IVb.gif">
+
+# Sites
+
+## <img src="https://f.feridinha.com/MxCsa.png" alt="empty" width= 20> Jogos Crackeados
+
+> O melhor e mais confiável site para baixar jogos e DLCs
+
+- [FitGirl Repacks](https://fitgirl-repacks.site/)
+
+## <img src="https://f.feridinha.com/MxCsa.png" alt="empty" width= 20> Jogos Para Emulador Switch
+
+> O melhor site para conseguir NSP de jogos de switch
+
+- [NxBrew](https://nxbrew.com/)
+
+<img src="https://f.feridinha.com/X1IVb.gif">
+
+# Aplicativos
+
+## <img src="https://f.feridinha.com/aMtD4.png" alt="empty" width= 20> Stremio
+> O Stremio é um aplicativo de streaming gratuito multiplataforma que permite aos usuários assistir filmes, séries, canais de TV ao vivo, e outros tipos de conteúdo de mídia a partir de diversas fontes em um único lugar. Ele funciona como um organizador de mídia, agregando conteúdo de diferentes plataformas de streaming e fontes online por meio de add-ons (extensões).
+
+> A interface é simples, intuitiva e organizada, semelhante a um site de streaming comum, contendo uma área para salvar o que assistir, área do conteúdo que você está assistindo e muitas configurações.
+
+> Tem aplicativo para todas as plataformas, inclusive TV com firestick, chromecast, etc.
+
+> Recomendo as extensões Torrentio e Torrentio Brazuca que possuem a maioria se não todos os filmes e séries.
+
+### ✧ Links
+
+- [Download](https://www.stremio.com/downloads)
+- [Torrentio](https://torrentio.strem.fun/configure)
+- [Torrentio Brazuca](https://torrentio.strem.fun/brazuca/configure)
+
+
 ## <img src="https://i.imgur.com/snigJlA.png" alt="empty" width= 20> Adobe
+> Esses são arquivos de download dos programas Adobe crackeados.
+
 > Você vai precisar de um programa que abra arquivos de extensão {_.torrent_}. Recomendo o [qBittorrent](https://www.qbittorrent.org/download.php).
 ### ✧ 2023
 - [After Effects 2023](https://drive.google.com/file/d/1rjae5waEyP0H1xlcCA5EzPG53-1W88d-/view?usp=share_link)
@@ -25,3 +65,5 @@
 
 > Caso necessário, aqui tem um [tutorial](https://i.imgur.com/SBTM5BL.png) pra instalação.  
 > Talvez você precise desativar seu antivírus pra instalação, porque são programas crackeados.
+
+<img src="https://f.feridinha.com/X1IVb.gif">
