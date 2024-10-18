@@ -10,7 +10,7 @@
 
 ## <img src="https://f.feridinha.com/MxCsa.png" alt="empty" width= 20> Jogos Crackeados
 
-> O melhor e mais confiável site para baixar jogos e DLCs
+> O melhor e mais confiável site para baixar jogos e DLCs.
 
 > Você vai precisar de um programa que abra arquivos de extensão {_.torrent_}. Recomendo o [qBittorrent](https://www.qbittorrent.org/download.php).
 
@@ -18,9 +18,23 @@
 
 ## <img src="https://f.feridinha.com/MxCsa.png" alt="empty" width= 20> Jogos Para Emulador Switch
 
-> O melhor site para conseguir NSP de jogos de switch
+> O melhor site para conseguir NSP de jogos de switch.
+
+> Precisa de um emulador de Switch? Dê uma olhada mais pra baixo que eu recomendo um.
 
 - [NxBrew](https://nxbrew.com/)
+
+## <img src="https://f.feridinha.com/ZJ0jM.png" alt="empty" width= 20> RemoveBG
+
+> O remove.bg é um site que oferece uma ferramenta online gratuita e automática para remover o fundo de imagens de forma rápida e eficiente.
+
+- [RemoveBG](https://remove.bg/)
+
+## <img src="https://f.feridinha.com/Qgi5a.png" alt="empty" width= 20> DiscoHook
+
+> O Discohook é uma ferramenta online usada para criar e enviar mensagens personalizadas em canais do Discord utilizando webhooks (parecido com bots personalizados). Ele permite que os usuários formatem suas mensagens com recursos avançados, como múltiplos campos, imagens, embeds, e outros elementos visuais.
+
+- [Discohook](https://discohook.org/)
 
 <img src="https://f.feridinha.com/X1IVb.gif">
 
@@ -67,5 +81,27 @@
 
 > Caso necessário, aqui tem um [tutorial](https://i.imgur.com/SBTM5BL.png) pra instalação.  
 > Talvez você precise desativar seu antivírus pra instalação, porque são programas crackeados.
+
+## <img src="https://f.feridinha.com/STjyM.png" alt="empty" width= 20> Sharex
+
+> O ShareX é um aplicativo de código aberto para captura de tela e gravação de vídeo disponível para Windows. Ele permite capturar qualquer área da tela de forma rápida e flexível, com várias opções de captura, incluindo tela cheia, janela ativa, regiões personalizadas, e até gravações em GIF ou vídeo. Além disso, o ShareX oferece diversas ferramentas integradas, como editor de imagens, anotação, upload automático para serviços de nuvem, captura de texto (OCR), entre outras.
+
+> Recomendo o uso da plataforma ***Feridinha*** para upload das screenshots devido a facilidade de uso e seu minimalismo, para usar basta instalar o Sharex e rodar o segundo arquivo disponibilizado.
+
+### ✧ Links
+
+- [Sharex](https://getsharex.com/downloads)
+- [Feridinha](https://f.feridinha.com/sharex.sxcu) 
+
+## <img src="https://f.feridinha.com/PsUuk.png" alt="empty" width= 20> Yuzu
+
+> O Yuzu é um emulador de código aberto para o Nintendo Switch, disponível para Windows e Linux. Ele permite que os usuários joguem títulos de Nintendo Switch em seus computadores, oferecendo suporte para uma vasta gama de jogos, com melhorias de performance, gráficos aprimorados e resolução superior em comparação ao console original. 
+
+> Para conseguir jogos o NxBrew é melhor site para conseguir NSP de jogos de switch.
+
+### ✧ Links
+
+- [Yuzu](https://buzzheavier.com/f/GQQkONcyoAA=)
+- [NxBrew](https://nxbrew.com/)
 
 <img src="https://f.feridinha.com/X1IVb.gif">
