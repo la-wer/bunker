@@ -20,7 +20,7 @@
 
 > O melhor site para conseguir NSP de jogos de switch.
 
-> Precisa de um emulador de Switch? Dê uma olhada mais pra baixo que eu recomendo um.
+> Precisa de um emulador de Switch? Eu recomendo o [Yuzu](#yuzu).
 
 - [NxBrew](https://nxbrew.com/)
 
