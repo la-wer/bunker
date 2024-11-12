@@ -5,6 +5,7 @@
   
 > Aqui você vai encontrar muitas informações sobre o mundo da pirataria e diversas recomendações.
 
+‎ 
 <img src="https://f.feridinha.com/8WgIV.gif">
 ‎ 
 
@@ -12,6 +13,7 @@
 
 > [Sites muito úteis com diversas funções](Arquivos/Sites/README.md)
 
+‎ 
 <img src="https://f.feridinha.com/8WgIV.gif">
 ‎ 
 
@@ -19,6 +21,7 @@
 
 > [Melhores aplicativos de funções diversas](Arquivos/Aplicativos/README.md)
 
+‎ 
 <img src="https://f.feridinha.com/8WgIV.gif">
 ‎ 
 
@@ -26,5 +29,6 @@
 
 > [Melhores extensões para o seu navegador](Arquivos/Extensões/README.md)
 
+‎ 
 <img src="https://f.feridinha.com/8WgIV.gif">
 
