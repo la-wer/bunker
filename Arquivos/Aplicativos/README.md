@@ -60,4 +60,4 @@
 ### ✧ Links
 
 - [Yuzu](https://buzzheavier.com/f/GQQkONcyoAA=)
-- [NxBrew](https://nxbrew.com/)
+- [NxBrew](https://nxbrew.net/)
