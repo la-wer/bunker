@@ -10,9 +10,9 @@
 
 > O melhor site para conseguir NSP de jogos de switch.
 
-- [NxBrew](https://nxbrew.com/)
+- [NxBrew](https://nxbrew.net/)
 
-> Precisa de um emulador de Switch? Eu recomendo o [Yuzu](https://buzzheavier.com/f/GQQkONcyoAA=).
+> Precisa de um emulador de Switch? Eu recomendo o Yuzu (você pode baixar escolhendo qualquer jogo do site FitGirl (ainda recomendo o nxbrew para futuros jogos)).
 
 ## <img src="https://f.feridinha.com/ZJ0jM.png" alt="empty" width= 20> RemoveBG
 
